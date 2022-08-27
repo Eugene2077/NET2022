@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "YqA9dhGhExAhuXZ11OmhDSDZxRqtqUOyEQX2u4b26ORZJe1TKVIIF7lq4pLG5o6iOLbdWFvJH6+ax3wM/tInUg==",
+  "dgSpecHash": "F6LAKfkzFHga2qGKSy0mp/pokDwnri1VyORtCXgU3odmEOuHS3Iq3bDZGFn3mHVxD2uYasmAyD5vPR/SsmfiFQ==",
   "success": true,
-  "projectFilePath": "\\\\Mac\\Home\\Downloads\\_School\\NETD\\NET2022\\ICE2_DiseaseCases\\ICE2_DiseaseCases.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\mirac\\source\\repos\\Eugene2077\\NET2022\\ICE2_DiseaseCases\\ICE2_DiseaseCases.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mirac\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\mirac\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mirac\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mirac\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

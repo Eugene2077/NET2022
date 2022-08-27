@@ -16,3 +16,5 @@
 \\Mac\Home\Downloads\_School\NETD\NET2022\LAB3_WeeklyCases\obj\Debug\net5.0-windows\ref\LAB3_WeeklyCases.dll
 \\Mac\Home\Downloads\_School\NETD\NET2022\LAB3_WeeklyCases\obj\Debug\net5.0-windows\LAB3_WeeklyCases.pdb
 \\Mac\Home\Downloads\_School\NETD\NET2022\LAB3_WeeklyCases\obj\Debug\net5.0-windows\LAB3_WeeklyCases.genruntimeconfig.cache
+C:\Users\mirac\Source\Repos\Eugene2077\NET2022\LAB3_WeeklyCases\obj\Debug\net5.0-windows\LAB3_WeeklyCases.dll
+C:\Users\mirac\Source\Repos\Eugene2077\NET2022\LAB3_WeeklyCases\obj\Debug\net5.0-windows\LAB3_WeeklyCases.pdb

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "7VjiOIQ9ExkAnet1khwkPeTGWEFKhy4kzZIisWjdc44GwSWI/yX9j3B3kgTDuf8xIKvpuTLxdrrh6k74DyGJEQ==",
+  "dgSpecHash": "ejMevq3xm4v9YLgHeRM1+i0H18SMMteYbbQ580SL9DDAaHxBr/nbPwby7Jd2bBiNvFPZvZV7RH22llRGBkcNtw==",
   "success": true,
-  "projectFilePath": "\\\\Mac\\Home\\Downloads\\_School\\NETD\\NET2022\\ICE01\\ICE01.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\mirac\\source\\repos\\Eugene2077\\NET2022\\ICE01\\ICE01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mirac\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\mirac\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mirac\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mirac\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

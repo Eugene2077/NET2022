@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "w5Gf+BerUXGajw0oSIhNOiVmcDE5WN59D7Xq4Prkbrs+P4BUu6em8NpaqeCejomz21cMcOmfIU4H2ePC+PISMA==",
+  "dgSpecHash": "DYLG6tu8aG+KsGemJijL3LZl18H7SQlHQjeRp+Xzo/XWxEYWHto/VjOe+LjqK0jkWt1n2ORdZRk1wkuzv829aw==",
   "success": true,
-  "projectFilePath": "\\\\Mac\\Home\\Downloads\\_School\\NETD\\NET2022\\LAB2_Grade\\LAB2_Grade.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\mirac\\source\\repos\\Eugene2077\\NET2022\\LAB2_Grade\\LAB2_Grade.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mirac\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\mirac\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mirac\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mirac\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
